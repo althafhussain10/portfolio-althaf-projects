@@ -22,7 +22,7 @@ const ContactSection = () => {
           <p className="text-primary font-medium tracking-widest uppercase text-sm mb-3">Get In Touch</p>
           <h2 className="text-3xl md:text-5xl font-bold mb-4">Contact Me</h2>
           <p className="text-muted-foreground max-w-xl mx-auto">
-            Have a project in mind or want to collaborate? Feel free to reach out.
+            Have a project in mind or want to collaborate? Feel free to reach out. 
           </p>
         </div>
         <div className="grid md:grid-cols-5 gap-8">
